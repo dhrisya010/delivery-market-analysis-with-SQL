@@ -26,14 +26,14 @@ Enhance the data engineering and analytical skills by:
 
 The objective is to explore trends, customer preferences, and market dynamics in the food delivery space. Conduct exploratory analysis, summarize findings, and present actionable insights.
 
-![fooddeliveryIMG](./delivery-market-analysis-with-SQL/fooddelivery.jpg)
+![fooddeliveryIMG](./images/fooddelivery.jpg)
 
 ## Data
 
 The database provided is structured as SQLite files:
 
 ### Deliveroo Database
-<img  src='./delivery-market-analysis-with-SQL/ER_schema_deliveroo.png' width=500px>
+<img  src='./images/ER_schema_deliveroo.png' width=500px>
 
 
 Use SQL queries to explore relationships between tables and derive insights. 
