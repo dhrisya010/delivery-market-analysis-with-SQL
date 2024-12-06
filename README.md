@@ -77,7 +77,7 @@ A sample visualization for the question: How does the availability of vegetarian
 ![Top 10 Cities with Vegetarian and Vegan Dishes Availability](./images/image1.png)
 
 
-_Figure : Top 10 pizza restaurants by rating_
+_Figure : Top 10 Cities with Vegetarian and Vegan Dishes Availability_
 
 ## ⏱️ Project Timeline
 The initial setup of this project was completed in 5 days.
