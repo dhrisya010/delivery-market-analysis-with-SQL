@@ -26,15 +26,14 @@ Enhance the data engineering and analytical skills by:
 
 The objective is to explore trends, customer preferences, and market dynamics in the food delivery space. Conduct exploratory analysis, summarize findings, and present actionable insights.
 
-![fooddeliveryIMG](D:\BeCode\Projects\delivery-market-analysis-with-SQL\fooddelivery.jpg)
+![fooddeliveryIMG](./delivery-market-analysis-with-SQL/fooddelivery.jpg)
 
 ## Data
 
 The database provided is structured as SQLite files:
 
-
 ### Deliveroo Database
-<img  src='D:\BeCode\Projects\delivery-market-analysis-with-SQL\ER_schema_deliveroo.png' width=500px>
+<img  src='./delivery-market-analysis-with-SQL/ER_schema_deliveroo.png' width=500px>
 
 
 Use SQL queries to explore relationships between tables and derive insights. 
@@ -73,9 +72,9 @@ The open ended questions:
 ├  ── README.md
  
 ```
-A sample visualization for the question: Which are the top 10 pizza restaurants by rating?
+A sample visualization for the question: How does the availability of vegetarian and vegan dishes vary by area?
 
-![Top 10 pizza restaurants by rating](image1.png)
+![Top 10 Cities with Vegetarian and Vegan Dishes Availability](image1.png)
 
 
 _Figure : Top 10 pizza restaurants by rating_
