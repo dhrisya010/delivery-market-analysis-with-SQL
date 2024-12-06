@@ -74,7 +74,7 @@ The open ended questions:
 ```
 A sample visualization for the question: How does the availability of vegetarian and vegan dishes vary by area?
 
-![Top 10 Cities with Vegetarian and Vegan Dishes Availability](image1.png)
+![Top 10 Cities with Vegetarian and Vegan Dishes Availability](./images/image1.png)
 
 
 _Figure : Top 10 pizza restaurants by rating_
