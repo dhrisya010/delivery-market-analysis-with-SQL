@@ -26,7 +26,7 @@ Enhance the data engineering and analytical skills by:
 
 The objective is to explore trends, customer preferences, and market dynamics in the food delivery space. Conduct exploratory analysis, summarize findings, and present actionable insights.
 
-![fooddeliveryIMG](./assets/fooddelivery.jpg)
+![fooddeliveryIMG](D:\BeCode\Projects\delivery-market-analysis-with-SQL\fooddelivery.jpg)
 
 ## Data
 
@@ -34,7 +34,7 @@ The database provided is structured as SQLite files:
 
 
 ### Deliveroo Database
-<img  src='./assets/ER_schema_deliveroo.png' width=500px>
+<img  src='D:\BeCode\Projects\delivery-market-analysis-with-SQL\ER_schema_deliveroo.png' width=500px>
 
 
 Use SQL queries to explore relationships between tables and derive insights. 
@@ -48,7 +48,7 @@ The key business questions:
 3. Which are the top 10 pizza restaurants by rating?
 4. Map locations offering kapsalons and their average price.
 
-You can also answer these open ended questions:
+The open ended questions:
 
 1. How do delivery fees vary across platforms and locations?
 2. Which restaurants have the best price-to-rating ratio?
@@ -67,6 +67,7 @@ You can also answer these open ended questions:
 ├   │  ── takeaway.db
 ├   │  ── ubereats.db
 ├  ── market_analysis.ipynb
+├  ── analysis.ipynb
 ├  ── requirements.txt   
 ├  ── .gitignore
 ├  ── README.md
@@ -74,7 +75,7 @@ You can also answer these open ended questions:
 ```
 A sample visualization for the question: Which are the top 10 pizza restaurants by rating?
 
-![Top 10 pizza restaurants by rating](image.png)
+![Top 10 pizza restaurants by rating](image1.png)
 
 
 _Figure : Top 10 pizza restaurants by rating_
